@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+E:\ВЫЧМАТ\с формой\Project1\Project1\MyForm.cpp(135,12): warning C4101: 'x': unreferenced local variable
+E:\ВЫЧМАТ\с формой\Project1\Project1\MyForm.cpp(208,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\ВЫЧМАТ\с формой\Project1\Project1\MyForm.cpp(131): warning C4715: 'Project1::MyForm::fixed_point': not all control paths return a value
+E:\ВЫЧМАТ\с формой\Project1\Project1\MyForm.cpp(206): warning C4715: 'Project1::MyForm::dichotomy_method': not all control paths return a value
+E:\ВЫЧМАТ\с формой\Project1\Project1\MyForm.cpp(109): warning C4715: 'Project1::MyForm::chord_method': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> E:\ВЫЧМАТ\с формой\Project1\Debug\Project1.exe
